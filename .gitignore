@@ -1,0 +1,16 @@
+# Credenciais
+.env
+**/.env
+
+# Ambientes virtuais
+.lab-dio/
+.venv/
+venv/
+
+# Python
+__pycache__/
+*.pyc
+
+# ADK (sessões locais do adk web)
+*.db
+.adk/
